@@ -135,8 +135,8 @@ Key discriminative features include acceleration range, standard deviation, and 
 
 This project was completed as a pair programming assignment for ELEC 292: Introduction to Data Science.
 
-- Team member 1
-- Team member 2
+- Daniil Nistribenko
+- LorenzoDeMarni
 
 ## 📝 Course Information
 
